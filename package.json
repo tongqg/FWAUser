@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "@material-ui/core": "4.3.3",
+    "@material-ui/icons": "4.2.1",
+    "ip-address": "6.1.0",
+    "react": "latest",
+    "react-dom": "16.9.0",
+    "react-typing-animation": "1.6.2"
+  },
+  "keywords": [],
+  "name": "fwa-user",
+  "description": "List component utilizing  MaterialUI design principles. ",
+  "version": "0.0.0",
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

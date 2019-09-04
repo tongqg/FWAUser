@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "@material-ui/core": "4.3.3",
+    "@material-ui/icons": "4.2.1",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "keywords": [
+    "renderprops",
+    "materialui",
+    "list"
+  ],
+  "name": "Dynamic List",
+  "description": "List component utilizing  MaterialUI design principles. "
+}
